@@ -6,7 +6,7 @@
     <title>Rezepte</title>
 
     <script src="libs/markdown-it.min.js"></script>
-    <link rel="stylesheet" href="libs/modern-normalize.min.css">
+<!--     <link rel="stylesheet" href="libs/modern-normalize.min.css">
     <link rel="stylesheet" href="libs/water.light.min.css">
 
     <style>
@@ -110,7 +110,7 @@
                 gap: 12px;
             }
         }
-    </style>
+    </style> -->
 
     <script>
         const md = window.markdownit();
