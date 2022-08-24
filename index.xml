@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
 <!--     <meta http-equiv="X-UA-Compatible" content="IE=edge"> -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rezepte</title>
+    <title>test</title>
 
-    <script src="libs/markdown-it.min.js"></script>
+<!--     <script src="libs/markdown-it.min.js"></script>
     <link rel="stylesheet" href="libs/modern-normalize.min.css">
     <link rel="stylesheet" href="libs/water.light.min.css">
 
@@ -111,7 +111,7 @@
                 gap: 12px;
             }
         }
-    </style>
+    </style> -->
 
     <script>
         const md = window.markdownit();
